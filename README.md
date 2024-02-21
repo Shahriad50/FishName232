@@ -1,2 +1,2 @@
 # FishName
-A android app to detect the various fish detection based on ml model
+A android app to detect the various fish type/name based on ml model
